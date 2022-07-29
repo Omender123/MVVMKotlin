@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/drawable/bottom_navigation.xml" value="0.1895" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/drawable/collection_selector.xml" value="0.1895" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/drawable/graident.xml" value="0.1415" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/drawable/home_corer.xml" value="0.1415" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/drawable/home_selector.xml" value="0.1895" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1895" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.1895" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1895" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/drawable/ic_baseline_qr_code_scanner_24.xml" value="0.1895" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/drawable/ic_iunselect_collecttion.xml" value="0.1895" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/drawable/ic_select_collection.xml" value="0.1895" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/drawable/ic_select_profile.xml" value="0.1895" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/drawable/ic_un_select_home.xml" value="0.1895" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/drawable/ic_unselect_profile.xml" value="0.1895" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/drawable/user_selector.xml" value="0.1895" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/drawable/whishlist_selector.xml" value="0.1895" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/layout/activity_main.xml" value="0.2765625" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/layout/activity_splash.xml" value="0.290625" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/layout/custom_coin_layout.xml" value="0.13697916666666668" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/layout/fragment_collection.xml" value="0.290625" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/layout/fragment_profile.xml" value="0.290625" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/layout/fragment_scan.xml" value="0.2765625" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/layout/fragment_whishlist.xml" value="0.2765625" />
+        <entry key="..\:/Android Project/MVVMTask/app/src/main/res/menu/bottom_menu.xml" value="0.13697916666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

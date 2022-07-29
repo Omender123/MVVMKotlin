@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVVMTask</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="seeall"><u>See all</u></string>
+
+    <string name="pls_check_your_internet_connection">Please check your internet connection</string>
+
+</resources>

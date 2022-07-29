@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@id/home"
+        android:icon="@drawable/home_selector"
+        android:menuCategory="secondary"
+        android:title="Home" />
+    <item
+        android:id="@id/whishlistFragment"
+        android:icon="@drawable/whishlist_selector"
+        android:menuCategory="secondary"
+        android:title="Wishlist" />
+
+    <item
+        android:id="@id/scanFragment"
+        android:icon="@drawable/ic_baseline_qr_code_scanner_24"
+        android:menuCategory="secondary"
+        android:title="Scan" />
+
+
+    <item
+        android:id="@id/collectionFragment"
+        android:icon="@drawable/collection_selector"
+        android:menuCategory="secondary"
+        android:title="Collection" />
+    <item
+        android:id="@id/profileFragment"
+        android:icon="@drawable/user_selector"
+        android:menuCategory="secondary"
+        android:title="Profile" />
+
+
+</menu>
